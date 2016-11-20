@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="frame">Frame animation</string>
+    <string name="transform">Transform animation</string>
+    <string name="alpha">Alpha animation</string>
+    <string name="slide">Slide animation</string>
+    <string name="combine">Combine</string>
+</resources>

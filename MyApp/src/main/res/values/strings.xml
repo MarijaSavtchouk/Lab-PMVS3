@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string-array name="start">
+        <item>Watch TV</item>
+        <item>Do PMVS</item>
+        <item>Call GrandMa</item>
+    </string-array>
+    <string-array name="activity">
+        <item>Entertament</item>
+        <item>Study</item>
+        <item>Family</item>
+    </string-array>
+</resources>
